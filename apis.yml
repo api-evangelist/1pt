@@ -39,7 +39,6 @@ apis:
   - name: 1pt
     description: "A simple URL shortener"
     humanURL: https://github.com/1pt-co/api/blob/main/README.md
-    baseURL: https://github.com/1pt-co/api/blob/main/README.md
     tags:
       - URL Shorteners
     properties:
